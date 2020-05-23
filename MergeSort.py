@@ -31,5 +31,3 @@ def merge_sort(A):
             j += 1
             k += 1
     return A
-
-print(merge_sort([9,5,2,4,5,7,6,3,2,3,45,6,7,8,8,4,356,7,86,39]))
