@@ -2,7 +2,7 @@ def Euclid(num_1, num_2):
     """
     Finds the least common factor of the values entered.
     :param num_1: First value
-    :param num_2: Last value
+    :param num_2: Second value
     :return: Greatest common factor
     """
     if num_1 == 0:
